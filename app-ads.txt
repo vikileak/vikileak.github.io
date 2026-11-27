@@ -1,1 +1,3 @@
-google.com, pub-2063517769456432, DIRECT, f08c47fec0942fa0
+# Authorized sellers for apps by Viktor Leongard (ShiftIt and others).
+# Google AdMob was closed for good on 2026-11-23; its line is removed.
+# Unity LevelPlay: paste the lines from LevelPlay > Setup > app-ads.txt below.
